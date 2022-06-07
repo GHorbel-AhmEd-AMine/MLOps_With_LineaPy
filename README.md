@@ -16,7 +16,7 @@ Selon un article de VentureBeat, environ 90 % des projets de science des donnée
 
 ### Concepts:
 
-itemize a.jpg b.jpg c.jpg
+itemize 1 2 3 
 
 
 L'artefact fait référence à un résultat intermédiaire dans le processus de développement de la science des données.
