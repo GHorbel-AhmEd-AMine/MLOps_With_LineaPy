@@ -19,3 +19,15 @@ Selon un article de VentureBeat, environ 90 % des projets de science des donnée
    1) L'artefact fait référence à un résultat intermédiaire dans le processus de développement de la science des données.
    2) Dans le flux de travail de la science des données, un artefact peut être un modèle, un graphique, une statistique, un cadre de données ou une fonction        caractéristique.
    3) LineaPy traite l'artefact comme un code et une valeur. Il stocke la valeur de l'artefact et également le code nécessaire pour dériver l'artefact.
+### Magasin d'artefacts :
+
+   1) Les artefacts sont stockés dans le magasin d'artefacts.
+   2) Le magasin d'artefacts enregistre également les métadonnées de l'artefact, comme l'heure de création et la version, etc.
+   3) Le magasin d'artefacts est globalement accessible par tous. L'utilisateur peut visualiser, charger et construire sur les artefacts à travers différentes sessions de développement et même différents projets.
+
+
+### Pipeline :
+
+   1) Un pipeline fait référence à une série d'étapes qui transforment les données en informations/produits utiles.
+   2) Ces pipelines sont développés composant par composant, puis plus tard tous les composants sont connectés pour obtenir le pipeline complet.
+   3) Dans LineaPy, chaque composant est représenté comme un artefact, et LineaPy fournit des API pour créer des pipelines à partir d'un groupe d'artefacts.
