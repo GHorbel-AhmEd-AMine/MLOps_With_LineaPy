@@ -16,9 +16,6 @@ Selon un article de VentureBeat, environ 90 % des projets de science des donnée
 
 ### Concepts:
 
-itemize 1 2 3 
-
-
-L'artefact fait référence à un résultat intermédiaire dans le processus de développement de la science des données.
-Dans le flux de travail de la science des données, un artefact peut être un modèle, un graphique, une statistique, un cadre de données ou une fonction caractéristique.
-LineaPy traite l'artefact comme un code et une valeur. Il stocke la valeur de l'artefact et également le code nécessaire pour dériver l'artefact.
+   1) L'artefact fait référence à un résultat intermédiaire dans le processus de développement de la science des données.
+   2) Dans le flux de travail de la science des données, un artefact peut être un modèle, un graphique, une statistique, un cadre de données ou une fonction        caractéristique.
+   3) LineaPy traite l'artefact comme un code et une valeur. Il stocke la valeur de l'artefact et également le code nécessaire pour dériver l'artefact.
